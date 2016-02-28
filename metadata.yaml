@@ -1,0 +1,33 @@
+_repo: Among-My-Books-First-Series_8503
+creator:
+  author:
+    agent_name: Lowell, James Russell
+    aliases:
+    - Wilbur, Homer
+    - Meliboeus-Hipponax
+    birthdate: 1819
+    deathdate: 1891
+    gutenberg_agent_id: '456'
+    url: http://www.gutenberg.org/2009/agents/456
+    wikipedia: http://en.wikipedia.org/wiki/James_Russell_Lowell
+description: ''
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8503'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Lessing, Gotthold Ephraim, 1729-1781'
+- !lcsh 'Shakespeare, William, 1564-1616 -- Criticism and interpretation'
+- !lcsh 'Rousseau, Jean-Jacques, 1712-1778'
+- !lcsh 'Dryden, John, 1631-1700'
+- !lcsh 'Witchcraft'
+- !lcsh 'New England -- Social life and customs'
+tableOfContents: Dryden -- Witchcraft -- Shakespeare once more -- New England two
+  centuries ago -- Lessing -- Rousseau and the sentimentalists.
+title: Among My Books. First Series
+url: http://www.gutenberg.org/ebooks/8503
